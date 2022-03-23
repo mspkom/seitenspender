@@ -14,7 +14,7 @@ function App() {
           You can clone or fork SEITENSPENDER on GitHub.
         </p>
         <p>
-          <a href="https://github.com/mspkom/seitenspender" target="_blank">SEITENSPENDER on GitHub</a>
+          <a href="https://github.com/mspkom/seitenspender" target="_blank" rel="noreferrer">SEITENSPENDER on GitHub</a>
         </p>
       </header>
     </div>
