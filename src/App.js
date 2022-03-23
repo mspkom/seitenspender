@@ -5,18 +5,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>
+          SEITENSPENDER
+        </h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Welcome to SEITENSPENDER, the front-end library of choice for creating internet blogs.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          You can clone or fork SEITENSPENDER on GitHub.
+        </p>
+        <p>
+          <a href="https://github.com/mspkom/seitenspender" target="_blank">SEITENSPENDER on GitHub</a>
+        </p>
       </header>
     </div>
   );
