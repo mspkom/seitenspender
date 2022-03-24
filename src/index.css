@@ -20,3 +20,21 @@ a:hover {
   font-weight: 900;
   text-shadow: 2px 2px 2px #999, 4px 4px 4px #933;
 }
+
+.forkme {
+  position: absolute;
+  width: 120px;
+  height: 150px;
+  top: 0;
+  right: 20px;
+  background: url(img/forkme.png) -10px 0;
+}
+.forkme:hover {
+  background: url(img/forkme.png) 160px 0;
+}
+
+.forkmeLink {
+  display: block;
+  width: 100%;
+  height: 100%;
+}

@@ -12,16 +12,17 @@ function App() {
           internet blogs.
         </p>
         <p>You can clone or fork SEITENSPENDER on GitHub.</p>
-        <p>
-          <a
-            href="https://github.com/mspkom/seitenspender"
-            target="_blank"
-            rel="noreferrer"
-          >
-            SEITENSPENDER on GitHub
-          </a>
-        </p>
       </header>
+      <div class="forkme">
+        <a
+          class="forkmeLink"
+          href="https://github.com/mspkom/seitenspender"
+          target="_blank"
+          rel="noreferrer"
+        >
+          &nbsp;
+        </a>
+      </div>
     </div>
   );
 }
