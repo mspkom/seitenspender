@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} alt="seitenspender logo" width="20%" />
+        <img src={logo} alt="seitenspender logo" width="160px" />
         <h1>SEITENSPENDER</h1>
         <p>
           Welcome to SEITENSPENDER, the front-end library of choice for creating
