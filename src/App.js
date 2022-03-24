@@ -8,7 +8,7 @@ function App() {
         <img src={logo} alt="seitenspender logo" width="160px" />
         <h1>SEITENSPENDER</h1>
         <p>
-          Welcome to SEITENSPENDER, the front-end library of choice for creating
+          Welcome to SEITENSPENDER, the frontend library of choice for creating
           internet blogs.
         </p>
         <p>You can clone or fork SEITENSPENDER on GitHub.</p>
