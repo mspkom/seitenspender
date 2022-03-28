@@ -12,7 +12,6 @@ function App() {
           internet blogs.
         </p>
         <p>You can use SEITENSPENDER on ReactJS, SvelteJS and VueJS.</p>
-        <p>You can clone or fork SEITENSPENDER on GitHub.</p>
       </header>
       <div class="forkme">
         <a
