@@ -11,6 +11,7 @@ function App() {
           Welcome to SEITENSPENDER, the frontend library of choice for creating
           internet blogs.
         </p>
+        <p>You can use SEITENSPENDER on ReactJS, SvelteJS and VueJS.</p>
         <p>You can clone or fork SEITENSPENDER on GitHub.</p>
       </header>
       <div class="forkme">
